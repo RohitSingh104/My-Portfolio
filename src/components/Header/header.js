@@ -10,10 +10,16 @@ const Header = () => {
                 <div className="Home">
                     <a href="#">Home</a>
                 </div>
-                <div className="About">About</div>
+                <div className="About">
+                    <a href="#footer">About</a>
+                </div>
                 <div className="Portfolio">Portfolio</div>
-                <div className="Resume">Resume</div>
-                <div className="Contact">Contact</div>
+                <div className="Resume">
+                    <a href="C:/Users/rksin/Downloads/Resume-Rohitkumar%20Singh%20(1).pdf">Resume</a>
+                </div>
+                <div className="Contact">
+                    <a href="#footer" id="Contact">Contact</a>
+                </div>
                 <div className="Blog">Blog</div>
             </div>
         </div>

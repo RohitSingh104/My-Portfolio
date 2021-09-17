@@ -9,6 +9,9 @@ const Main = () => {
                 <br/>
                 <h3 id="para2nd">Web developer from Vapi, Gujarat. I create websites to<br></br> help businesses do better online. </h3>
             </div>
+            <div className="more-details">
+                <a href="#footer" id="more-details">More Details</a>
+            </div>
         </div>
     )
 }

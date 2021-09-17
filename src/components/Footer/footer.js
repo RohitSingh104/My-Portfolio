@@ -2,7 +2,7 @@ import React from 'react'
 import './footer.css';
 const Footer = () => {
     return (
-        <div className="footerWrapper">
+        <div className="footerWrapper" id="footer">
             <div className="upperPart">
                 <div className="location">
                     <h3 id="address">Address</h3>
@@ -42,7 +42,7 @@ const Footer = () => {
                     <p id="about-para">I am a frontend developer , <br/>can create beautiful websites<br/>and ready to collaborate with <br/>freelance team  and also ready to join<br/> IT organization as an employee.</p>
                 </div>
             </div>
-            <div className="lowerPart">
+            <div className="lowerPart" >
                 <h4 id="name">Rohit Singh (Software Engineer)</h4>
                 <p id="copyright"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsP8wppjhFHn1gr5xzq7aJK2f4iVhyMwQ-bDV4cVtCJ9Zmd-BoUq4st1d7jgR0uQuttgE&usqp=CAU" id="copyright-img"/> All Rights Reserved.</p>
 

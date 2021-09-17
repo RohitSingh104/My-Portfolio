@@ -39,6 +39,49 @@
 
  .Home a:hover{
     border-bottom: 2px solid white;
-    
- }
+    color:rgb(21, 255, 0);
+ 
+}
+
+.Resume a{
+   text-decoration: none;
+   color: white;
+}
+
+.Resume a:hover{
+   border-bottom: 2px solid white;
+   color:rgb(21, 255, 0);
+}
+
+.Contact a{
+   text-decoration: none;
+   color:white;
+}
+
+.Contact a:hover{
+   border-bottom: 2px solid white;
+   color:rgb(21, 255, 0);
+}
+
+.About a{
+   text-decoration: none;
+   color:white;
+}
+
+.About a:hover{
+   border-bottom: 2px solid white;
+   color:rgb(21, 255, 0);
+}
+
+
+.Portfolio:hover{
+   border-bottom: 2px solid white;
+   color:rgb(21, 255, 0);
+}
+
+.Blog:hover{
+   border-bottom: 2px solid white;
+   color:rgb(21, 255, 0);
+}
+
 
