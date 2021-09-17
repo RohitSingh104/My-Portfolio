@@ -1,0 +1,87 @@
+.footerWrapper{
+    width: 1349px;
+    height:200px;
+    position: absolute;
+    top: 460px;
+    border-top: 1px solid rgb(70, 68, 68);
+}
+
+.upperPart{
+    color:whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+#gmail-img{
+    width: 30px;
+    height:20px;
+    margin-top: 5px;
+    
+}
+
+#linkedin-img{
+    width:25px;
+    height:19px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#github-img{
+    width:30px;
+    height:19px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.contact-no{
+    margin-top: 10px;
+}
+
+.no{
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+#about-para{
+    margin-top: 18px;
+}
+
+.about{
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.location{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.socialMedia{
+    margin-top: 10px;
+    margin-left:40px;
+}
+
+.lowerPart{
+    border-top: 1px solid rgb(71, 71, 71);
+    color:rgb(85, 79, 79);
+    margin-left:100px;
+    margin-right: 100px;
+}
+
+#name{
+    margin-left:500px;
+    color:rgb(141, 138, 138)
+}
+
+#copyright-img{
+    width:10px;
+    height:10px;
+}
+
+#copyright{
+    margin-left:520px;
+    color:rgb(141, 138, 138)
+
+}

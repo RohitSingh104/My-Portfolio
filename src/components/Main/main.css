@@ -1,0 +1,17 @@
+.intro{
+    position: absolute;
+    top:200px;
+    left: 500px;
+    
+}
+
+#intro-1stline{
+    color:blanchedalmond;
+    font-style: normal;
+    font-size: 50px;
+}
+
+#para2nd{
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+}

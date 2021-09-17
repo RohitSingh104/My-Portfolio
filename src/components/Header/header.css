@@ -1,0 +1,44 @@
+.headerWrapper{
+    background-color: brown;
+    display: flex;
+    max-width: 1349px;
+    height:50px;
+    justify-content:space-between;
+    align-items: center;
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ .menu{
+     margin-right: 10px;
+     width:670px;
+     display: flex;
+     justify-content: space-between;
+     font-size: large;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+
+ #R{
+    color:chartreuse;
+}
+
+ .symbol{
+    margin-left: 20px;
+    border-bottom: 2px solid grey;
+  
+  
+ }
+
+ .symbol:hover{
+    border-bottom: 2px solid cyan;
+ }
+
+ .Home a{ 
+    text-decoration: none;
+    color: white;
+ }
+
+ .Home a:hover{
+    border-bottom: 2px solid white;
+    
+ }
+
